@@ -826,32 +826,6 @@ a {
 
 }	
 
-/*@media only screen and (max-width: 370px) {
-	.button {
-	font-size: 10px;
-	font-family: 'Signika', sans-serif ;
-	text-decoration: none;
-	display: block;
-	background-color: #00A9D4;
-	color: #fff;
-	cursor: pointer;
-	width: 50px;
-	text-align: center;
-	border-radius: 5px;
-	transition: all 0,5s;
-	border: 3px solid transparent;
-}
-	.p-button {
-	font-size: 10px;
-	width: 40px;
-	font-family: 'Signika', sans-serif ;
-	margin-top: 10px;
-}
-
-}
-
-
-*/
 @media only screen and (max-width: 350px) {
 	.bg-image {
 		display: none;
